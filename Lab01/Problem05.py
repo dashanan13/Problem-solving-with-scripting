@@ -1,0 +1,1 @@
+# Go to https://projecteuler.net/archives and try to solve some of the problems there. The %-operator will be very useful for many of the problems
